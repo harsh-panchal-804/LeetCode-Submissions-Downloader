@@ -1,6 +1,6 @@
 # Project Title
 
-This python script downloads all the accepted submissions from leetcode.com and saves them in a folder called "correct_submissions" in the same directory as the script. All the submissions are saved as .txt files.
+This python script downloads all of your accepted submissions and saves them in a folder called "correct_submissions" in the same directory as the script. All the submissions are saved as .txt files.
 
 ## Prerequisites
 
