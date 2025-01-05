@@ -29,8 +29,6 @@ Watch the demonstration below:
 
 ## Usage
 
-Provide a step-by-step guide on how to use your project:
-
 1. Step 1: Get your LeetCode session cookie from the browser's dev tools.
 2. Step 2: Replace the `session_cookies` dictionary with your LeetCode session cookie.
 3. Step 3: Run the script.
