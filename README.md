@@ -6,12 +6,13 @@ This python script downloads all the accepted submissions from leetcode.com and 
 
 - Python 3.x
 
-
 ## Demo
 
-Watch the demonstration video below:
+Watch the demonstration below:
 
-<video src="./resources//Recording 2025-01-05 183854.mp4" controls width="720"></video>
+![Demo GIF](./resources/Recording%202025-01-05%20183854%20(1).gif)
+
+
 
 
 ## Installation
