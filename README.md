@@ -18,14 +18,10 @@ Watch the demonstration video below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/harsh-panchal-804/LeetCode-Submissions-Downloader.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Run the project:
+   
+2. Run the project:
    ```
    python script.py
    ```
