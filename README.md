@@ -2,9 +2,6 @@
 
 This python script downloads all of your accepted submissions and saves them in a folder called "correct_submissions" in the same directory as the script. All the submissions are saved as .txt files.
 
-## Prerequisites
-
-- Python 3.x
 
 ## Demo
 
